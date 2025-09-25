@@ -1,4 +1,4 @@
-I just wrapped up my very first Power BI project!🚀
+I just wrapped up my very first Power BI project!🚀 
 
 After learning the basics through Udemy, I challenged myself to create an end-to-end interactive report.
 
